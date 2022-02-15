@@ -24,7 +24,7 @@ return require("packer").startup({function()
   }
 
   -- Color schemes.
-  use { "folke/tokyonight.nvim" }
+  use { "nilanjan/tokyonight.nvim" }
   use { "bluz71/vim-nightfly-guicolors" }
   use { "bluz71/vim-moonfly-colors" }
   use { "shaunsingh/nord.nvim" }
