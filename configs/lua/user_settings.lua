@@ -17,6 +17,8 @@ additional_plugins = {
   -- you must put configs in config = function() like below examples
 
   { "famiu/feline.nvim", branch = "develop" },
+  
+  { 'cdelledonne/vim-cmake' },
 
     -- LSP
   { 'onsails/lspkind-nvim' },
